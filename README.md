@@ -6,7 +6,6 @@ Grup Diskusi : https://t.me/KawanSoltraman
 BOT AUTO TIME FARM
 Link Bot : https://t.me/TimeFarmCryptoBot?start=kC7QkCAJkMEWdSsS
 
-
 git clone 
 cd wa
 pip3 install request  
