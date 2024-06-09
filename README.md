@@ -6,8 +6,8 @@ Grup Diskusi : https://t.me/KawanSoltraman
 BOT AUTO TIME FARM
 Link Bot : https://t.me/TimeFarmCryptoBot?start=kC7QkCAJkMEWdSsS
 
-git clone 
-cd wa
+git clone https://github.com/Gabrilyana/airdropsoltraman.git
+cd airdropsoltraman
 pip3 install request  
 nano initdata.txt ###########Ambil Query ID pada web.telegram.org
 python3 bot.py
