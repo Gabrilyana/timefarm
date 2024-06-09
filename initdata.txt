@@ -1,4 +1,4 @@
-query_id=AAG_tjpGAgAAAL-2Okb8hv6z&user=%7B%22id%22%3A5473220287%2C%22first_name%22%3A%22Gab%22%2C%22last_name%22%3A%22%22%2C% 
+query_id=AAG_tjpfsefsfqAL-2Okb8hv6z&user=%7B%22id%22%fewfewqf0287%2C%22first_name%22%3A%22Gab%22%2C%22last_namfeqfq%22%22%2C% 
 
 #Ambil Query id web.telegram
 
