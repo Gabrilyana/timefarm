@@ -5,7 +5,7 @@ Grup Diskusi : https://t.me/KawanSoltraman
 BOT AUTO TIME FARM
 Link Bot : https://t.me/TimeFarmCryptoBot?start=kC7QkCAJkMEWdSsS
 
-git clone https://github.com/Gabrilyana/airdropsoltraman.git
+git clone https://github.com/Gabrilyana/timefarm.git
 
 cd airdropsoltraman
 
