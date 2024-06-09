@@ -6,6 +6,7 @@ BOT AUTO TIME FARM
 Link Bot : https://t.me/TimeFarmCryptoBot?start=kC7QkCAJkMEWdSsS
 
 git clone https://github.com/Gabrilyana/airdropsoltraman.git
+
 cd airdropsoltraman
 
 apt install python3 python3-pip
