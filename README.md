@@ -1,5 +1,4 @@
-By : Gabril
-
+By : SOLTRAMAN
 Grup Channel : https://t.me/airdropsoltraman
 Grup Diskusi : https://t.me/KawanSoltraman
 
